@@ -12,15 +12,12 @@
 <a href="https://www.facebook.com/macdavid55" target="_blank">
   <img src="https://img.shields.io/badge/facebook-0056f7.svg?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/macdavid55" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%).svg?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
 <a href="mailto:davidojukwu59@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
   <img src="https://gpvc.arturio.dev/markdavid000" />
   
-  <!-- <p align = "center">
+  <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=markdavid000&hide=css,java,html&theme=blue-green">
-</p> -->
+</p>
 </p>
