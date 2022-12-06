@@ -12,6 +12,9 @@
 <a href="https://www.facebook.com/macdavid55" target="_blank">
   <img src="https://img.shields.io/badge/facebook-0056f7.svg?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/macdavid55" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-4f5bd5.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>&nbsp;&nbsp;
 <a href="mailto:davidojukwu59@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
