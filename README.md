@@ -1,6 +1,6 @@
 <h1 align='center'>Hello there, I am Mark-david 👋🏾</h1>
 
-<p align='center'>A Frontend Developer :computer: focused on (Writing HTML, CSS, Bootstrap, Javacsript, React.js). Hit me up :phone: for a gig </p>
+<p align='center'>A Frontend Developer :computer: focused on (Writing HTML, CSS, Bootstrap, Javacsript, React.js). Hit me up :telephone_receiver: for a gig </p>
 
 <p align='center'>
 <a href="https://twitter.com/mark_ojukwu" target="_blank">
