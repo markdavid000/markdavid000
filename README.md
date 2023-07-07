@@ -1,8 +1,8 @@
 [Mark-David Ojukwu Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mark-David Ojukwu</h2>
+<img alt="Night Coding" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif?raw=true" width='40' align="left"/><h2>Hey there! I'm Mark-David Ojukwu</h2>
 
-## 👋 &nbsp;Hey there! I'm Aditya
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya?? -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
