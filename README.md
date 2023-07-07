@@ -8,24 +8,15 @@
 
 ### I'm a Frontend Developer
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
-✉️ &nbsp;How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com) I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Portfolio](https://markstech.netlify.com) for more details about me. I'm open to feedback and suggestions!
+🌱 &nbsp; I am currently learning React.js\
+💼 &nbsp; I'm open to Frontend Developer Internship Role, I'm also open to Learning and Collaboration.\
+💬 &nbsp; Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
+✉️ &nbsp; How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com), I'll try to respond as soon as I can.\
+📄 &nbsp; Please have a look at my [Portfolio](https://markstech.netlify.com) for more details about me. I'm open to feedback and suggestions!\
+😄 &nbsp; Pronouns: She/her.
+<!-- 💡 &nbsp; I like to explore and learn new things and develop software solutions and quick hacks.\ -->
 
-I am a blockchain developer, smart contract developer, web3 frontend engineer😎, technical writer🖊️ and speaker.
-
-- 🤓 I am currently learning Blockchain development
-- 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
-- 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
-- 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: I have a very healthy sense of humor😂
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,29 +26,27 @@ I am a blockchain developer, smart contract developer, web3 frontend engineer�
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/markdavid000">
+<a href="https://github.com/markdavid000" align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markdavid000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/markdavid000">
+<a href="https://github.com/markdavid000" align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markdavid000&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://markstech.netlify.app"><img src="https://img.shields.io/badge/-markstech.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mark-david-ojukwu-7841a2249/"><img src="https://img.shields.io/badge/-Mark%20David%20Ojukwu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:davidojukwu59@gmail.com"><img src="https://img.shields.io/badge/-davidojukwu59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mark_ojukwu"><img src="https://img.shields.io/badge/-Mark David Ojukwu-FD363A?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/macdavid55"><img src="https://img.shields.io/badge/-Mark David-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://twitter.com/mark_ojukwu"><img src="https://img.shields.io/badge/-Mark David Ojukwu-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
