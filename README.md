@@ -14,6 +14,15 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
+I am a blockchain developer, smart contract developer, web3 frontend engineer😎, technical writer🖊️ and speaker.
+
+- 🤓 I am currently learning Blockchain development
+- 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
+- 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
+- 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I have a very healthy sense of humor😂
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
