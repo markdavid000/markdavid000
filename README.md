@@ -12,7 +12,7 @@
 💼 &nbsp; I'm open to Frontend Developer Internship Role, I'm also open to Learning and Collaboration.\
 💬 &nbsp; Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
 ✉️ &nbsp; How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com), I'll try to respond as soon as I can.\
-📄 &nbsp; Please have a look at my [Portfolio](https://markstech.netlify.com) for more details about me. I'm open to feedback and suggestions!\
+📄 &nbsp; Please have a look at my [Résumé](https://docs.google.com/document/d/1EAumsxQbJ8LdAZrJAJKh-pABjNuKGgRWRDKugN4LH54/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!\
 😄 &nbsp; Pronouns: She/her.
 <!-- 💡 &nbsp; I like to explore and learn new things and develop software solutions and quick hacks.\ -->
 
