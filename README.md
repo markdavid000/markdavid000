@@ -1,12 +1,12 @@
 <!-- [Mark-David Ojukwu Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
 
-<h1>Hi there! <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/> I'm Mark-David Ojukwu</h1>
+# Hi there! <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/> I'm Mark-David Ojukwu
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya?? -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
-## I'm a Frontend Developer
+### I'm a Frontend Developer
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
@@ -27,7 +27,7 @@ I am a blockchain developer, smart contract developer, web3 frontend engineer�
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp;
