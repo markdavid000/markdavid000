@@ -1,4 +1,4 @@
-![Mark-David Ojukwu Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+[Mark-David Ojukwu Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/><h2>Hey there! I'm Mark-David Ojukwu</h2>
 
