@@ -6,7 +6,7 @@
 
 ### I'm a Frontend Developer
 
-🌱 &nbsp; I am currently learning React.js\
+🌱 &nbsp; I'm currently learning React.js\
 💼 &nbsp; I'm open to Frontend Developer Internship Role, I'm also open to Learning and Collaboration.\
 💬 &nbsp; Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
 ✉️ &nbsp; How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com), I'll try to respond as soon as I can.\
