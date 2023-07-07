@@ -10,16 +10,16 @@
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+💬 &nbsp;Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
+✉️ &nbsp;How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com) I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Portfolio](https://markstech.netlify.com) for more details about me. I'm open to feedback and suggestions!
 
 I am a blockchain developer, smart contract developer, web3 frontend engineer😎, technical writer🖊️ and speaker.
 
 - 🤓 I am currently learning Blockchain development
 - 🤔 I am open to Blockchain development & Smart contract developer roles, I am also open to speaking engagements
 - 💬 Ask me about HTML/CSS, JavaScript/Typescript, React, Solidity, Web3 & Blockchain development
-- 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)  
+- 📫 How to reach me: Send me an email [here](mailto:emmaglorypraise@gmail.com)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I have a very healthy sense of humor😂
 
