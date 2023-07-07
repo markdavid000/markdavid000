@@ -1,5 +1,3 @@
-<!-- [Mark-David Ojukwu Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg) -->
-
 # Hi there! <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/> I'm Mark-David Ojukwu
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya?? -->
@@ -13,10 +11,9 @@
 💬 &nbsp; Feel free to Ask me about HTML/CSS, JavaScript, Bootstrap, Tailwindcss.\
 ✉️ &nbsp; How to reach me: Send me an email [here](mailto:davidojukwu59@gmail.com), I'll try to respond as soon as I can.\
 📄 &nbsp; Please have a look at my [Résumé](https://docs.google.com/document/d/1EAumsxQbJ8LdAZrJAJKh-pABjNuKGgRWRDKugN4LH54/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!\
-😄 &nbsp; Pronouns: She/her.
+😄 &nbsp; Pronouns: He/His.
 <!-- 💡 &nbsp; I like to explore and learn new things and develop software solutions and quick hacks.\ -->
 
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -32,15 +29,17 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## ⚙️ &nbsp;GitHub Analytics
-
-<a href="https://github.com/markdavid000" align="center">
+<p align="center">
+  <a href="https://github.com/markdavid000" align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=markdavid000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/markdavid000" align="center">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=markdavid000&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</p>
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://markstech.netlify.app"><img src="https://img.shields.io/badge/-markstech.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
