@@ -1,6 +1,6 @@
 # Hi there! <img alt="Night Coding" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width='40' align="left"/> I'm Mark-David Ojukwu
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya?? -->
+<!-- ## 👋 &nbsp;Hey there! I'm?? -->
 
 ## 👨🏻‍💻 &nbsp;About Me
 
